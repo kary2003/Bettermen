@@ -13,18 +13,15 @@ Eli Broverman
 Jon Stein
 
 * How did the idea for the company (or project) come about
-He conceptualized the idea for the company after realizing that he could apply the concepts he learned in behavioral economics and biology in college to the financing world. He did this by realizing that humans are not rational when making financial decisions. Solution take the human emotion out of the equation.  He did this by creating a service that could would tell him what to do with his money and then do it.
+
+He conceptualized the idea for the company after realizing that he could apply the concepts he learned in behavioral economics and biology in college to the financing world. He concluded that human behavior is not always rational when making financial decisions.  His solution was to take the human emotion out of the equation.  He did this by creating a service that would tell him what to do with his money and then do it.
 
 https://www.betterment.com/resources/the-history-of-betterment/
 
 * how the company is funded
-Funding
-Funding Date
-Round
-Amount
+
 Investors
 Mar 28, 2016
-Other Financing Round
 $100M
 Anthemis Group
 
@@ -43,9 +40,21 @@ https://www.zoominfo.com/c/betterment-llc/371589407
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+"The recent advancements in the fields of machine learning (ML), artificial intelligence (AI), and neural research are promising to revolutionize the business models of a number of industries wherein there has always been a strong demand for automation of complex activities that are handled by humans and hence are prone to errors."
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Who is the company's intended customer? 
+Younger Generations, study shows the younger generation are more tech savy and prefer digital tools and small investors which can this services at slow starting prices.
+
+https://www.transparencymarketresearch.com/robo-advisors-market.html
+
+* Is there any information about the market size of this set of customers?
+
+According to Aite Group, Digital advise users will increase from roughly 2 million to 17 million by 2021
+
+https://content.schwab.com/web/retail/public/about-schwab/charles_schwab_rise_of_robo_report_findings_2018.pdf
+
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
