@@ -6,14 +6,16 @@ Robo Advisors
 
 * Betterment
 
-* Company was incorporated in 
-2008
+* Company was incorporated in 2008
 
 * Founded by 
 Eli Broverman 
 Jon Stein
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about
+He conceptualized the idea for the company after realizing that he could apply the concepts he learned in behavioral economics and biology in college to the financing world. He did this by realizing that humans are not rational when making financial decisions. Solution take the human emotion out of the equation.  He did this by creating a service that could would tell him what to do with his money and then do it.
+
+https://www.betterment.com/resources/the-history-of-betterment/
 
 * how the company is funded
 Funding
