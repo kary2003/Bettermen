@@ -46,8 +46,8 @@ Arvind Purushotham)
 - Robo advisors are filling a demand for automation of complex activities that where generally filled by humans and where prone to error. 
 
 ## Consumers
-- Younger Generations, who tend to be more tech savy and prefer digital tools.
-- small investors which can use this services at low starting prices.
+- Younger Generations, who tend to be more tech savyy and prefer digital tools.
+- small investors which can use this service at low starting prices.
 
 [^footnote][sources](https://www.transparencymarketresearch.com/robo-advisors-market.html)
 
@@ -61,9 +61,6 @@ Arvind Purushotham)
       - Rebalancing based on the investment time horizon
       - Lower Fees
       - Tax loss harvesting
-      
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 
 ## Landscape:
 
