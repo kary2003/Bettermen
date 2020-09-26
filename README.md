@@ -46,7 +46,7 @@ Arvind Purushotham)
 - Robo advisors are filling a demand for automation of complex activities that where generally filled by humans and where prone to error. 
 
 ## Consumers
-- Younger Generations, who tend to be more tech savyy and prefer digital tools.
+- Younger Generations, who tend to be more tech savvy and prefer digital tools.
 - small investors which can use this service at low starting prices.
 
 [^footnote][transparency market research](https://www.transparencymarketresearch.com/robo-advisors-market.html)
@@ -76,10 +76,10 @@ Arvind Purushotham)
 
 ## Major Competitors according to Zoominfo; [Zoominfo](https://www.zoominfo.com/c/betterment-llc/371589407)
 
-- FutureAdvisors Inc        74  employees    $14 Million
+- FutureAdvisors Inc        74 employees    $14 Million
 - Wealthfront Inc           109 employees    $21 Million
-- Nest Wealth Inc           67  emloyees     $13 Million
-- SigFig                    102 emplyees     $20 Million
+- Nest Wealth Inc           67  employees     $13 Million
+- SigFig                    102 employees     $20 Million
 - Acorns Grow Inc           177 employees    $7  Million
 - Personal Capitol          240 employees    $48 Million
 - Wealth Management llc     890 employees    $178 Million
@@ -88,7 +88,7 @@ Arvind Purushotham)
 ## Results
 
 * What has been the business impact of this company so far?
-   - They have made investing more simple and many large investment companies such as vanguard are begining to embrace the technology.
+   - They have made investing simpler and many large investment companies such as vanguard are beginning to embrace the technology.
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -109,11 +109,11 @@ Arvind Purushotham)
 
 ### If you were to advise the company, what products or services would you suggest they offer?  
 
-* In order to part ways with the company you have to submmit numerous documentation through snail mail, making this transcations difficult on the consummer.  I would recommend simplyfing this procedure.
+* In order to part ways with the company you must submit numerous documentations through snail mail, making these transactions difficult on the consumer.  I would recommend simplifying this procedure.
 
 ### Why do you think that offering this product or service would benefit the company?
 
-* Although you never want to say godbye to your customers, simplyfing this process could attract large companies that offer 401ks and it could potentially attract 1st time individual investors that don't want be tied down to a service they might not like or understand. 
+* Although you never want to say goodbye to your customers, simplifying this process could attract large companies that offer 401ks and it could potentially attract 1st time individual investors that don't want be tied down to a service they might not like or understand. 
 
 ### What technologies would this additional product or service utilize?
 
@@ -121,4 +121,5 @@ Arvind Purushotham)
 
 ### Why are these technologies appropriate for your solution?
 
-* Betterment is already leading in the technology niche wihtin the financing industry it seems appropriate that all its systems would be opperating at the same level.  I think consumers would expect a company that has brought financing into the technology world to be able to provide a simple way to leave their services when and if needed. If the company has confidence in its product than it should run smoothly from begining to end. By doing this they build consumer confidence.  If a company makes it difficult for a consumer to leave, it sends the wrong message. 
+* Betterment is already leading in the technology niche within the financing industry it seems appropriate that all its systems would be operating at the same level.  I think consumers would expect a company that has brought financing into the technology world to be able to provide a simple way to leave their services when and if needed. If the company has confidence in its product than it should run smoothly from beginning to end. By doing this they build consumer confidence.  If a company makes it difficult for a consumer to leave, it sends the wrong message.
+
