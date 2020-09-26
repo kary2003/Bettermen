@@ -38,7 +38,7 @@ Most Recent Funding Amount
 Number of Funding Rounds
 Arvind Purushotham)
 
-[^footnote][sources](https://www.zoominfo.com/c/betterment-llc/371589407)
+[^footnote][Zoominfo](https://www.zoominfo.com/c/betterment-llc/371589407)
 
 ## Business Activities:
 
@@ -49,13 +49,13 @@ Arvind Purushotham)
 - Younger Generations, who tend to be more tech savyy and prefer digital tools.
 - small investors which can use this service at low starting prices.
 
-[^footnote][sources](https://www.transparencymarketresearch.com/robo-advisors-market.html)
+[^footnote][transparency market research](https://www.transparencymarketresearch.com/robo-advisors-market.html)
 
 ## Market Size
 
   - According to Aite Group, Digital advise users will increase from roughly 2 million to 17 million by 2021
 
-[^footnote][sources](https://content.schwab.com/web/retail/public/about-schwab/charles_schwab_rise_of_robo_report_findings_2018.pdf)
+[^footnote][content.schwab.com](https://content.schwab.com/web/retail/public/about-schwab/charles_schwab_rise_of_robo_report_findings_2018.pdf)
 
 ## Services provided by Betterment that could potentially provide better value for more conservative investors:
       - Rebalancing based on the investment time horizon
@@ -74,7 +74,7 @@ Arvind Purushotham)
         a. From active management to niche assets, robo advisors are tapping into every corner of the investment market.
       4. Lines will blur among registered investment advisors and robo-advisory platforms
 
-## Major Competitors according to Zoominfo; [source](https://www.zoominfo.com/c/betterment-llc/371589407)
+## Major Competitors according to Zoominfo; [Zoominfo](https://www.zoominfo.com/c/betterment-llc/371589407)
 
 - FutureAdvisors Inc        74  employees    $14 Million
 - Wealthfront Inc           109 employees    $21 Million
@@ -84,3 +84,41 @@ Arvind Purushotham)
 - Personal Capitol          240 employees    $48 Million
 - Wealth Management llc     890 employees    $178 Million
 - Bestinvest Ltd            400 employees    $80 Million
+
+## Results
+
+* What has been the business impact of this company so far?
+   - They have made investing more simple and many large investment companies such as vanguard are begining to embrace the technology.
+
+* How is your company performing relative to competitors in the same domain?
+
+  	
+    - Betterment 5.0/5 
+     
+    - Wealthfront  5.0/5 
+    
+    - SoFi Automated Investing  4.5/5
+
+    - Ellevest  5.0/5
+
+    - Blooom 3.5/5
+ 
+
+[^footnote][NerdWallet](https://www.nerdwallet.com/reviews/investing/advisors/betterment)
+## Recommendations
+
+### If you were to advise the company, what products or services would you suggest they offer?  
+
+* In order to part ways with the company you have to submmit numerous documentation through snail mail, making this transcations difficult on the consummer.  I would recommend simplyfing this procedure.
+
+### Why do you think that offering this product or service would benefit the company?
+
+* Although you never want to say godbye to your customers, simplyfing this process could attract large companies that offer 401ks and it could potentially attract 1st time individual investors that don't want be tied down to a service they might not like or understand. 
+
+### What technologies would this additional product or service utilize?
+
+* I would recommend and app or maybe digital forms via e-mail.  Being able to provide electronic signatures and additional info via the internet.  
+
+### Why are these technologies appropriate for your solution?
+
+* Betterment is already leading in the technology niche wihtin the financing industry it seems appropriate that all its systems would be opperating at the same level.  I think consumers would expect a company that has brought financing into the technology world to be able to provide a simple way to leave their services when and if needed. If the company has confidence in its product than it should run smoothly from begining to end. By doing this they build consumer confidence.  If a company makes it difficult for a consumer to leave, it sends the wrong message. 
