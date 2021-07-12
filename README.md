@@ -1,10 +1,6 @@
-# Case-Study
-
-
-## Overview and Origin
-
 ![image](https://th.bing.com/th/id/OIP.Lf9_M6SEzfTiRTOofZMOcgHaBK?w=315&h=59&c=7&o=5&pid=1.7)
 
+## Overview and Origin
 
 * The company was incorporated in 2008 and Founded by Eli Broverman & Jon Stein
 ![image]( https://www.bing.com/th?id=OIP.p-urve9Xve1-M_meaf2UewHaFS&w=186&h=160&c=8&rs=1&qlt=90&pid=3.1&rm=2)
